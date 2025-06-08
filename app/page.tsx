@@ -14,11 +14,7 @@ export default function Home() {
     <Services />
     
     
-<<<<<<< HEAD
-    
-=======
-   
->>>>>>> f36d5b3530abbdcf9d6460a47c20614f29667ca9
+
     </>
   );
 }
