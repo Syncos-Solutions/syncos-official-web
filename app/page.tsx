@@ -2,7 +2,6 @@
 
 import Features from "@/components/Features";
 import Getapp from "@/components/Getapp";
-import Guide from "@/components/Guide";
 import Hero from "@/components/Hero";
 import Services from "@/components/Services";
 
@@ -14,7 +13,6 @@ export default function Home() {
     <Features />
     <Services />
     
-    <Guide />
     
     <Getapp />
     </>
